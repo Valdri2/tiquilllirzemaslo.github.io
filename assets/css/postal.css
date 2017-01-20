@@ -1371,11 +1371,11 @@
 					height: calc(2rem + 1px);
 				}
 
-			#header .logo {
+		/*	#header .logo {
 				width: 4.75rem;
 				height: 4.75rem;
 				line-height: 4.75rem;
-			}
+			} */
 
 				#header .logo .icon:before {
 					font-size: 1.75rem;
